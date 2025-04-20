@@ -27,7 +27,7 @@
 ### 📫 Contato
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-diogo-060021345/)  
-📧 daniiel.sobrinho19@gmail.com
+[![Email](https://img.shields.io/badge/-Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:daniiel.sobrinho19@gmail.com)
 
 ---
 
