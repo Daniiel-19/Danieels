@@ -1,4 +1,4 @@
-<h1 align="center">Fala aí! Eu sou o Danieels 👋</h1>
+<h1 align="center">Fala aí! Eu sou o Daniel 👋</h1>
 
 <p align="center">
   Estudante de <strong>Ciência da Computação</strong> na <strong>UNIFG</strong> | Apaixonado por tecnologia e programação!
