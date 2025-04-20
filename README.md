@@ -1,4 +1,4 @@
-<h1 align="center">Fala aí! Eu sou o Daniel 👋</h1>
+<h1 align="center">Fala aí! Eu sou o Danieels 👋</h1>
 
 <p align="center">
   Estudante de <strong>Ciência da Computação</strong> na <strong>UNIFG</strong> | Apaixonado por tecnologia e programação!
@@ -26,7 +26,8 @@
 
 ### 📫 Contato
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-diogo-060021345/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-diogo-060021345/)  
+📧 daniiel.sobrinho19@gmail.com
 
 ---
 
